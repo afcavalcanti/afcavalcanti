@@ -2,6 +2,8 @@
 
 **Mechanical Engineer · Software Developer · Industrial AI Researcher**
 
+🥇 **IEEE Very Small Champion** — Brazilian Robotics Competition, 2013
+
 M.Sc. in Science, Technology & Innovation from UFRN. My work bridges **Industry 4.0**, **autonomous maintenance**, and **artificial intelligence** for industrial cyber-physical systems. Co-founder & COO at [Soluções Corporativas Integradas](https://solucoesintegradas.com.br).
 
 ---
@@ -107,12 +109,6 @@ M.Sc. in Science, Technology & Innovation from UFRN. My work bridges **Industry 
 | 2014 | Symposium | National Robotics Exhibition |
 | 2013 | Congress | VIII North-Northeast Research and Innovation Congress |
 | 2013 | Exhibition | Technology, Science and Culture Expo — Robotics Show |
-
----
-
-### 🎖️ Award
-
-🥇 **IEEE Very Small Champion** — Brazilian Robotics Competition, 2013
 
 ---
 
